@@ -2,7 +2,7 @@ const h1serv = require("h1z1-server");
 
 var Zone = new h1serv.ZoneClient(
   "127.0.0.1",
-  1117,
+  1128,
   "Gangrene",
   2,
   "ok",
